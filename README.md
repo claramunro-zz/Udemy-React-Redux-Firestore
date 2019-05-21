@@ -1,4 +1,5 @@
 # Udemy-React-Redux-Firestore
+## IN PROGRESS
 Using create-react-app, Login &amp; Register (social too) using Firebase authentication, reusable form components with Redux forms.
 
 https://www.udemy.com/build-an-app-with-react-redux-and-firestore-from-scratch/
